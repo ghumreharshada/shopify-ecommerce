@@ -1,9 +1,5 @@
 # shopify-ecommerce
-“E-commerce website built with Shopify features including product list, add to cart, order, and payment integration.”
-# 🛍️ Shopify 
-
-A modern e-commerce website inspired by Shopify, featuring product listing, cart management, order tracking, and payment functionality.
-# 🛒 Shopify E-commerce Website – Backend (Spring Boot)
+“E-commerce website built with Shopify features including product list, add to cart, order, and payment integration.
 
 This is the backend service for the Shopify-style e-commerce website, developed using **Spring Boot**. It handles products, users, carts, orders, and payment APIs.
 
